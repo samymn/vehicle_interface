@@ -10,6 +10,8 @@
   <url>http://osl.eps.hw.ac.uk</url>
 
   <depend package="diagnostic_msgs"/>
+  <depend package="actionlib"/>
+  <depend package="actionlib_msgs"/>
 
 </package>
 

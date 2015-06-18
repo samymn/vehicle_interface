@@ -1,0 +1,8 @@
+# Goal
+vehicle_interface/PathRequest request
+---
+# Result
+bool result
+---
+# Feedback
+vehicle_interface/PathStatus feedback_status
